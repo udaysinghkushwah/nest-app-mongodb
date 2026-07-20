@@ -136,9 +136,18 @@ Check out a few resources that may come in handy when working with NestJS:
 - To stay in the loop and get updates, follow us on [X](https://x.com/nestframework) and [LinkedIn](https://linkedin.com/company/nestjs).
 - Looking for a job, or have a job to offer? Check out our official [Jobs board](https://jobs.nestjs.com).
 
-## Support
+## Support & Donation
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+If you find this project helpful and want to support its development, you can **Buy Me a Coffee**! ☕
+
+### Scan to Pay (UPI)
+Scan the QR code below using any UPI app (PhonePe, Google Pay, Paytm, BHIM, etc.) to support:
+
+<p align="center">
+  <img src="assets/upi-qr.jpg" width="250" alt="UPI QR Code - Uday Singh Kushwah" />
+  <br>
+  <b>UPI Receiver:</b> Uday Singh Kushwah
+</p>
 
 ## Stay in touch
 
